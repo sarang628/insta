@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="insta_input_inside">#F9F8FA</color>
+    <color name="insta_input_border">#D3D3D3</color>
+    <color name="insta_input_hint">#878787</color>
+
+    <color name="insta_button_deactive">#A4D7FB</color>
+
+    <color name="insta_text_link">#0A2857</color>
+    <color name="insta_fb_login">#1E7DF0</color>
+
+
+</resources>

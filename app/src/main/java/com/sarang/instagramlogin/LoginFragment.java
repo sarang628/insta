@@ -11,10 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
-/**
- * A simple {@link Fragment} subclass.
- */
 public class LoginFragment extends Fragment {
 
     public LoginFragment() {
@@ -48,7 +44,7 @@ public class LoginFragment extends Fragment {
                         .beginTransaction()
                         //뒤로가기 눌렀을때 전화면이 보이고 싶다면
                         .addToBackStack(null)
-                        .add(R.id.cl_root, new SignUpFragment())
+                        .add(R.id.fl_root, new SignUpFragment())
                         .commit();
             }
         });
